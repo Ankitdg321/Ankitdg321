@@ -54,5 +54,5 @@
 ---
 
 ### 🌐 **Connect with Me**  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="linkedin" height="40">]([https://www.linkedin.com/in/Ankitdg321](www.linkedin.com/in/ankitgaikwad321)  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="linkedin" height="40">]([https://www.linkedin.com/in/Ankitdg321](www.linkedin.com/in/ankitgaikwad321))  
  
