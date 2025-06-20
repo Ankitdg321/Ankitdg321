@@ -6,7 +6,7 @@
 ---
 
 ### 💡 **About Me**
-🌟 A passionate **Backend Java Developer** with over **3+ years of experience** in building scalable and efficient systems. I specialize in **Spring Boot**, **Microservices**, and developing RESTful APIs.  
+🌟 A passionate **Backend Java Developer** with over **4+ years of experience** in building scalable and efficient systems. I specialize in **Spring Boot**, **Microservices**, and developing RESTful APIs.  
 
 🎯 Currently seeking new opportunities in **Java Development** where I can contribute and grow in a challenging environment.  
 
@@ -34,7 +34,8 @@
 - RESTful APIs  
 
 🗄️ **Database:**  
-- MySQL  
+- MySQL
+- Postgres
 - Hibernate  
 - Spring JPA  
 
